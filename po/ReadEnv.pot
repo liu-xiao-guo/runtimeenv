@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-18 10:28+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/ReadEnv.qml:75
+msgid "UBUNTU_APPLICATION_ISOLATION"
+msgstr ""
+
+#: ../app/ReadEnv.qml:80
+msgid "APP_ID"
+msgstr ""
+
+#: ../app/ReadEnv.qml:85
+msgid "XDG_CACHE_HOME"
+msgstr ""
+
+#: ../app/ReadEnv.qml:90
+msgid "XDG_CONFIG_HOME"
+msgstr ""
+
+#: ../app/ReadEnv.qml:95
+msgid "XDG_DATA_HOME"
+msgstr ""
+
+#: ../app/ReadEnv.qml:100
+msgid "XDG_RUNTIME_DIR"
+msgstr ""
+
+#: ../app/ReadEnv.qml:105
+msgid "TMPDIR"
+msgstr ""
+
+#: ../app/ReadEnv.qml:110
+msgid "PWD"
+msgstr ""
+
+#: ../app/ReadEnv.qml:115
+msgid "APP_PKGNAME"
+msgstr ""
+
+#: ../app/ReadEnv.qml:120
+msgid "PATH"
+msgstr ""
+
+#: ../app/ReadEnv.qml:125
+msgid "LD_LIBRARY_PATH"
+msgstr ""
+
+#: ../app/ReadEnv.qml:130
+msgid "QML2_IMPORT_PATH"
+msgstr ""
+
+#: ../app/ui/HelloTab.qml:7
+msgid "Hello.."
+msgstr ""
+
+#: ../app/ui/HelloTab.qml:35
+msgid "You can change the Tab from Page title above."
+msgstr ""
+
+#: ../app/ui/WorldTab.qml:6
+msgid "..World!"
+msgstr ""
+
+#: ../app/ui/WorldTab.qml:22
+msgid "WorldTab"
+msgstr ""
+
+#: ../app/ui/WorldTab.qml:31
+msgid "Swipe from bottom to up to reveal the toolbar."
+msgstr ""
+
+#: ../app/ui/WorldTabTools.qml:7
+msgid "Tap me!"
+msgstr ""
+
+#: ../app/ui/WorldTabTools.qml:10
+msgid "Toolbar tapped"
+msgstr ""
+
+#: /home/liuxg/qml/build-runtimeevn-UbuntuSDK_for_armhf_GCC_ubuntu_sdk_15_04_vivid-Default/po/ReadEnv.desktop.in.h:1
+msgid "ReadEnv"
+msgstr ""
